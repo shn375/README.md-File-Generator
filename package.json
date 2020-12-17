@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shn375/README.md-File-Generator.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shn375/README.md-File-Generator/issues"
+  },
+  "homepage": "https://github.com/shn375/README.md-File-Generator#readme",
   "dependencies": {
     "inquirer": "^6.5.2"
   }
